@@ -1,0 +1,39 @@
+a{
+  border-radius: 5px;
+  padding: 10px 7px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+  margin: 5px;
+}
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing: border-box;
+
+}
+body{
+	background: #10263B;
+	align-content: center;
+	text-decoration-color: white;
+}
+h1{
+	align-content: center;
+	text-align: center;
+	color:white;
+}
+form{
+	text-decoration-color: white;
+}
+.nombre{
+	text-decoration-color: white;
+	color:white;
+
+}
+.contra{
+	text-decoration-color: white;
+	color:white;
+
+}
